@@ -1,0 +1,22 @@
+{
+  "name": "componentTool",
+  "version": "0.1.0",
+  "summary": "A short description of componentTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18513346093/componentTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18513346093": "18513346093@163.com"
+  },
+  "source": {
+    "git": "https://github.com/18513346093/componentTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "componentTool/Classes/**/*"
+}

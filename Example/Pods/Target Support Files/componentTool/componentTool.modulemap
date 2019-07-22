@@ -1,0 +1,6 @@
+framework module componentTool {
+  umbrella header "componentTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

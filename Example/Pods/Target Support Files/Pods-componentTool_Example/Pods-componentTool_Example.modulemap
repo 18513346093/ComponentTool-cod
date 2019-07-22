@@ -1,0 +1,6 @@
+framework module Pods_componentTool_Example {
+  umbrella header "Pods-componentTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
