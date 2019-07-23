@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '18513346093' => '18513346093@163.com' }
-  s.source           = { :git => 'https://github.com/18513346093/ComponentTool-cod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/18513346093/ComponentTool-cod.git', :tag => 0.1.4 }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
